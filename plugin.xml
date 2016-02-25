@@ -98,7 +98,7 @@ xmlns:android="http://schemas.android.com/apk/res/android"
         <framework src="CoreLocation.framework" />
 
         <config-file target="*-Info.plist" parent="NSLocationWhenInUseUsageDescription">
-            <string>${PRODUCT_NAME} would like to access your location.</string>
+            <string>VisitBran would like to access your location.</string>
         </config-file>
 
     </platform>
