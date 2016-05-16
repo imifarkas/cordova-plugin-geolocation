@@ -94,13 +94,13 @@
 		<framework src="CoreLocation.framework" />
 
 		<config-file parent="NSLocationWhenInUseUsageDescription" target="*-Info.plist">
-			<string>I would like to get access to your location.</string>
+			<string></string>
 		</config-file>
 		<config-file parent="NSLocationAlwaysUsageDescription" target="*-Info.plist">
-			<string>I would like to get access to your location.</string>
+			<string></string>
 		</config-file>
 		<config-file parent="NSLocationUsageDescription" target="*-Info.plist">
-			<string>I would like to get access to your location.</string>
+			<string></string>
 		</config-file>
 
 	</platform>
